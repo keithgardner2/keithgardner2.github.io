@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://keithgardner.me/sitemap.xml
